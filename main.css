@@ -1,0 +1,30 @@
+body, div, p, ul, ol, li, dl, dt, dd, table, th, td, img, figure, h1, h2, h3, h4, h5, h6, form, select {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.container {
+    margin: 25px auto;
+}
+
+#timer {
+    height: 120px;
+    font-size: 60px;
+    margin-left: 25px; 
+}
+
+.btn {
+    height: 50px;
+    width: 110px;
+    font-weight: bold;
+    margin: 5px;
+    font-size: 18px;
+}
+
+.controls {
+    display: flex;
+}
